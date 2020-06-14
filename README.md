@@ -17,6 +17,7 @@ sudo nano /etc/ssh/sshd_config
 CHANGE
 
 PermitRootLogin prohibit-password to PermitRootLogin yes 
+
 PasswordAuthentication no to PasswordAuthentication yes
 
 sudo service ssh --full-restart
