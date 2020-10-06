@@ -1,6 +1,6 @@
 # WSL_SSH_Scripts
 
-![SSH](https://www.razoyo.com/wp-content/uploads/2018/12/ssh.jpg)
+![SSH](https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2017/03/ssh-big.png)
 
 https://docs.microsoft.com/en-us/wind...
 
