@@ -28,5 +28,5 @@ whoami
 
 ifconfig | grep '192.168.0.' | awk '{print $2}' | tr -d 'addr:';
 
-https://www.youtube.com/watch?v=yRkuL3wNL2w
+https://www.bitchute.com/video/tiqORPpwIzkg/
 
